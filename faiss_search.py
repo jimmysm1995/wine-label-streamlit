@@ -4,7 +4,6 @@ from datetime import datetime
 from typing import List, Dict
 import faiss
 import numpy as np
-import openai
 from openai import AzureOpenAI
 from pymongo import MongoClient
 import pickle
